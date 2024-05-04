@@ -1,2 +1,2 @@
-require("abhi.remap")
+require("abhi")
 
