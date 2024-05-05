@@ -1,2 +1,0 @@
-lsp = require('lsp-zero')
-
