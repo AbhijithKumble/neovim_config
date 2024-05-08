@@ -31,6 +31,7 @@ return {
 				},
 			})
 			vim.cmd("colorscheme tokyonight")
+--    		ColorMyPencils()
 		end
     },
    

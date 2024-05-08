@@ -1,7 +1,9 @@
 return {
 
-     {
-	"nvim-lua/plenary.nvim",
-	name = planery
-     }  
+    {
+        "nvim-lua/plenary.nvim",
+        name = planery
+    },
+
+        "eandrju/cellular-automaton.nvim",
 }
